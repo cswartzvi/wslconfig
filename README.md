@@ -23,7 +23,7 @@ Next, we need to copy the dot files to our home directory
 cp -r ./* $HOME
 ```
 
-Lastly,  Install the following applications
+Lastly, install the following applications
 * starship (https://starship.rs/)
 * oh-my-zsh (https://ohmyz.sh/#install)
 * zsh-synatx-highlighting (https://github.com/zsh-users/zsh-syntax-highlighting)
