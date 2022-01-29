@@ -1,0 +1,11 @@
+command_timeout = 1000
+
+[python]
+pyenv_version_name = false
+
+[shell]
+disabled = false
+
+[conda]
+ignore_base = false
+symbol = "🟢 "
