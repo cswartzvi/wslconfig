@@ -31,6 +31,7 @@ Lastly, install the following applications
 * zsh-completions (https://github.com/zsh-users/zsh-completions)
 * fzf (https://github.com/junegunn/fzf)
 * asdf (https://asdf-vm.com/)
+* asdf-python (https://github.com/danhper/asdf-python)
 * asdf-direnv (https://github.com/asdf-community/asdf-direnv)
 * pipx (https://pypa.github.io/pipx/)
 * poetry (https://python-poetry.org/)
